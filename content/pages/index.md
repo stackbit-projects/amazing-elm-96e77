@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Anda ingin tidur berkualitas? 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Gunakan Spring Bed dengan Kualitas terjamin bergaransi 15 Tahun dan bisa
+      di cicil 15 Tahun dan bisa dicicil 10x bunga 0%
     actions:
       - title: See all items
         url: /store
