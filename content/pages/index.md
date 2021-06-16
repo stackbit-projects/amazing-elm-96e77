@@ -5,7 +5,8 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/nan_talk.jpg
+    background_image: >-
+      images/quantum_quantum-millenium-kasur-springbed--160-x-200-cm-tanpa-divan-dan-sandaran-khusus-jabodetabek-_full02.jpg
     background_image_opacity: 65
     content: >
       # Anda ingin tidur berkualitas? 
